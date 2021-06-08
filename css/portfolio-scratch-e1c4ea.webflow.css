@@ -426,6 +426,25 @@
   font-size: 24px;
 }
 
+.heading-14 {
+  text-align: center;
+}
+
+.div-block-3 {
+  min-height: 3px;
+  min-width: 40px;
+  color: #000;
+}
+
+.paragraph-8 {
+  text-align: center;
+}
+
+.div-block-4 {
+  min-height: 3px;
+  min-width: 40px;
+}
+
 @media screen and (max-width: 991px) {
   .footer {
     padding-right: 20px;
