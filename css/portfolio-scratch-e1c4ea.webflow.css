@@ -445,6 +445,10 @@
   min-width: 40px;
 }
 
+.image-5 {
+  display: inline-block;
+}
+
 @media screen and (max-width: 991px) {
   .footer {
     padding-right: 20px;
@@ -461,6 +465,10 @@
     text-align: center;
   }
 
+  .container {
+    display: none;
+  }
+
   .footer {
     padding: 40px 20px;
   }
@@ -472,6 +480,11 @@
 }
 
 @media screen and (max-width: 479px) {
+  .body {
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+
   .sticky-nav {
     padding: 0px;
   }
@@ -496,6 +509,15 @@
     border-top: 1px solid #c4c4c4;
   }
 
+  .container {
+    display: block;
+  }
+
+  .section-10 {
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+
   .footer {
     padding-right: 20px;
     padding-left: 20px;
@@ -516,6 +538,20 @@
 
   .footer-heading {
     margin-top: 20px;
+  }
+
+  .image-5 {
+    display: block;
+    width: auto;
+  }
+
+  .section-13 {
+    display: none;
+  }
+
+  .container-2 {
+    padding-right: 5px;
+    padding-left: 5px;
   }
 }
 
