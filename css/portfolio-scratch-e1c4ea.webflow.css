@@ -266,8 +266,8 @@
 }
 
 .section-8 {
-  margin-top: 50px;
-  margin-bottom: 50px;
+  margin-top: 0px;
+  margin-bottom: 0px;
 }
 
 .heading-8 {
@@ -538,6 +538,10 @@
 
   .footer-heading {
     margin-top: 20px;
+  }
+
+  .div-block-2 {
+    text-align: center;
   }
 
   .image-5 {
