@@ -527,7 +527,7 @@
 
 .image-12 {
   position: absolute;
-  left: 34%;
+  left: 39%;
   top: 126%;
   right: auto;
   bottom: auto;
@@ -555,7 +555,7 @@
   bottom: auto;
   z-index: 4;
   display: block;
-  box-shadow: 3px 3px 12px 6px #dedede;
+  box-shadow: 10px 10px 12px 6px #dedede;
 }
 
 .image-15 {
