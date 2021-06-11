@@ -696,6 +696,11 @@
     display: block;
   }
 
+  .heading-5 {
+    font-size: 28px;
+    line-height: 34px;
+  }
+
   .heading-7 {
     font-size: 18px;
     line-height: 24px;
